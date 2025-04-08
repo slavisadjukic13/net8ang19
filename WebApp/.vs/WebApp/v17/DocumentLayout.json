@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\projects\\net8ang19\\WebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Migrations\\20250408221735_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApp.API\\Migrations\\20250408221735_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1EB022-E18C-482E-823E-582128122EBC}|WebApp.API\\WebApp.API.csproj|c:\\projects\\net8ang19\\webapp\\webapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1EB022-E18C-482E-823E-582128122EBC}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1EB022-E18C-482E-823E-582128122EBC}|WebApp.API\\WebApp.API.csproj|c:\\projects\\net8ang19\\webapp\\webapp.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1EB022-E18C-482E-823E-582128122EBC}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1EB022-E18C-482E-823E-582128122EBC}|WebApp.API\\WebApp.API.csproj|c:\\projects\\net8ang19\\webapp\\webapp.api\\webapp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7A1EB022-E18C-482E-823E-582128122EBC}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\webapp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1EB022-E18C-482E-823E-582128122EBC}|WebApp.API\\WebApp.API.csproj|c:\\projects\\net8ang19\\webapp\\webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1EB022-E18C-482E-823E-582128122EBC}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D3961CB-83AE-4284-BFCC-8637DFD509F9}|WebApp.UnitTests\\WebApp.UnitTests.csproj|c:\\projects\\net8ang19\\webapp\\webapp.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D3961CB-83AE-4284-BFCC-8637DFD509F9}|WebApp.UnitTests\\WebApp.UnitTests.csproj|solutionrelative:webapp.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +39,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250408221735_init.cs",
+              "DocumentMoniker": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Migrations\\20250408221735_init.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Migrations\\20250408221735_init.cs",
+              "ToolTip": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Migrations\\20250408221735_init.cs",
+              "RelativeToolTip": "WebApp.API\\Migrations\\20250408221735_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:17:35.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApp.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:15:43.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApp.API",
+              "DocumentMoniker": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\WebApp.API.csproj",
+              "RelativeDocumentMoniker": "WebApp.API\\WebApp.API.csproj",
+              "ToolTip": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\WebApp.API.csproj",
+              "RelativeToolTip": "WebApp.API\\WebApp.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T22:10:18.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Models\\User.cs",
+              "ToolTip": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Models\\User.cs",
+              "RelativeToolTip": "WebApp.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:35:33.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Program.cs",
+              "ToolTip": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Program.cs",
+              "RelativeToolTip": "WebApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:33:33.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\projects\\net8ang19\\WebApp\\WebApp.UnitTests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "WebApp.UnitTests\\UnitTest1.cs",
