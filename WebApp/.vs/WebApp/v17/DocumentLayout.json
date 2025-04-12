@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\projects\\net8ang19\\WebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D3961CB-83AE-4284-BFCC-8637DFD509F9}|WebApp.UnitTests\\WebApp.UnitTests.csproj|c:\\projects\\net8ang19\\webapp\\webapp.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3961CB-83AE-4284-BFCC-8637DFD509F9}|WebApp.UnitTests\\WebApp.UnitTests.csproj|solutionrelative:webapp.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3961CB-83AE-4284-BFCC-8637DFD509F9}|WebApp.UnitTests\\WebApp.UnitTests.csproj|c:\\projects\\net8ang19\\webapp\\webapp.unittests\\webapp.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D3961CB-83AE-4284-BFCC-8637DFD509F9}|WebApp.UnitTests\\WebApp.UnitTests.csproj|solutionrelative:webapp.unittests\\webapp.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A1EB022-E18C-482E-823E-582128122EBC}|WebApp.API\\WebApp.API.csproj|c:\\projects\\net8ang19\\webapp\\webapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A1EB022-E18C-482E-823E-582128122EBC}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\projects\\net8ang19\\WebApp\\WebApp.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "WebApp.UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\projects\\net8ang19\\WebApp\\WebApp.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "WebApp.UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T21:23:40.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApp.UnitTests",
+              "DocumentMoniker": "C:\\projects\\net8ang19\\WebApp\\WebApp.UnitTests\\WebApp.UnitTests.csproj",
+              "RelativeDocumentMoniker": "WebApp.UnitTests\\WebApp.UnitTests.csproj",
+              "ToolTip": "C:\\projects\\net8ang19\\WebApp\\WebApp.UnitTests\\WebApp.UnitTests.csproj",
+              "RelativeToolTip": "WebApp.UnitTests\\WebApp.UnitTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T21:23:36.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\appsettings.json",
               "RelativeDocumentMoniker": "WebApp.API\\appsettings.json",
@@ -38,12 +72,11 @@
               "RelativeToolTip": "WebApp.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-12T20:49:24.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T20:49:24.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "WebAppAPIContext.cs",
               "DocumentMoniker": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Data\\WebAppAPIContext.cs",
               "RelativeDocumentMoniker": "WebApp.API\\Data\\WebAppAPIContext.cs",
@@ -51,25 +84,24 @@
               "RelativeToolTip": "WebApp.API\\Data\\WebAppAPIContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T20:19:19.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T20:19:19.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "WebApp.API\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Controllers\\UsersController.cs",
               "RelativeToolTip": "WebApp.API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB8AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T22:15:43.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Models\\User.cs",
               "RelativeDocumentMoniker": "WebApp.API\\Models\\User.cs",
@@ -77,8 +109,7 @@
               "RelativeToolTip": "WebApp.API\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T21:35:33.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T21:35:33.46Z"
             }
           ]
         }
