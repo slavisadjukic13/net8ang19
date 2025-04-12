@@ -14,6 +14,6 @@ namespace WebApp.API.Data
         {
         }
 
-        public DbSet<WebApp.API.Models.User> User { get; set; } = default!;
+        public DbSet<User> Users { get; set; } = default!;
     }
 }
