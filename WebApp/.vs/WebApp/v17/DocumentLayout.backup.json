@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{7A1EB022-E18C-482E-823E-582128122EBC}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7A1EB022-E18C-482E-823E-582128122EBC}|WebApp.API\\WebApp.API.csproj|c:\\projects\\net8ang19\\webapp\\webapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A1EB022-E18C-482E-823E-582128122EBC}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A1EB022-E18C-482E-823E-582128122EBC}|WebApp.API\\WebApp.API.csproj|c:\\projects\\net8ang19\\webapp\\webapp.api\\data\\webappapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A1EB022-E18C-482E-823E-582128122EBC}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\data\\webappapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,17 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp.API\\appsettings.json",
+              "ToolTip": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\appsettings.json",
+              "RelativeToolTip": "WebApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T20:49:24.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "WebAppAPIContext.cs",
               "DocumentMoniker": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Data\\WebAppAPIContext.cs",
               "RelativeDocumentMoniker": "WebApp.API\\Data\\WebAppAPIContext.cs",
               "ToolTip": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Data\\WebAppAPIContext.cs",
               "RelativeToolTip": "WebApp.API\\Data\\WebAppAPIContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T20:19:19.864Z",
               "EditorCaption": ""
@@ -45,7 +62,7 @@
               "RelativeDocumentMoniker": "WebApp.API\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Controllers\\UsersController.cs",
               "RelativeToolTip": "WebApp.API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFMAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T22:15:43.268Z",
               "EditorCaption": ""
@@ -58,7 +75,7 @@
               "RelativeDocumentMoniker": "WebApp.API\\Models\\User.cs",
               "ToolTip": "C:\\projects\\net8ang19\\WebApp\\WebApp.API\\Models\\User.cs",
               "RelativeToolTip": "WebApp.API\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T21:35:33.46Z",
               "EditorCaption": ""
